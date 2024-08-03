@@ -1,0 +1,10 @@
+If I were hired to enable data analytics, I would start by:
+1. having a general understanding of the datasets we deal with
+2. having a general understanding of the overall business process
+3. having a general understand of the current data pipelines
+4. gathering info about what kind of analytics do they want to do
+5. diving deep into the datasets
+
+I would go about gathering requirements by:
+1. asking the stakeholders or project managers to understand what kind of metrics or KPIs do they want to see in their reports.
+2. understanding their current state of reporting setup (data source, tools, data quality)
